@@ -1,0 +1,1 @@
+worker: python forum_bot_lite.py
